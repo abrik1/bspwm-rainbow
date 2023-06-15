@@ -11,3 +11,5 @@ python Rainbow.py
 ```
 
 ## preview:
+
+![master](simplescreenrecorder-2023-06-15_17.31.09.gif)
